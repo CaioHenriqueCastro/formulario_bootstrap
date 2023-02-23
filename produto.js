@@ -3,7 +3,7 @@ function calcular (){
     let nTotal = quant.value * unit.value;
     let item = desc.value
     total.value = nTotal;
-    console.log(nTotal, item)
+    console.log(nTotal, item);
 }
 
 function validaDesc (){
